@@ -22,5 +22,5 @@ class ClassifierAPITest(unittest.TestCase):
             # B: format a mock request
             files = {"file": (f.name, f, "multipart/form-data")}
             # C: make a request, and verify a valid prediction is returned
-            response = client.post("/detect-fire", files=files)
+            response = client.post("/detect-hotdog", files=files)
             assert response.status_code == 307

@@ -15,7 +15,7 @@ predictor_config_path = API_SETTINGS["predictor_config_path"]
 predictor = ImagePredictor.init_from_config_path(predictor_config_path)
 
 
-@app.post("/detect-fire/")
+@app.post("/detect-hotdog/")
 def make_prediction(file: UploadFile = File(...)):
-    """Predicts the possibility that a RBG image contains fire."""
+    """Predicts the possibility that a RBG image contains hotdog."""
     return predictor.predict_from_file(file.file)
