@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/69827506/137549062-8e2cc250-f3e3-4b5d-
 The model was completely confused as it was split down the middle with a ~56% confidence rate that it was looking at a hotdog.
 
 ## Release Notes
-#### v1.0.0    (Jul 13 2021)
+#### v1.0.0    (Oct 15 2021)
 
 - 🎉 first release!
 
