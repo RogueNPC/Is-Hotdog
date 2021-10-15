@@ -17,6 +17,9 @@ dataset/
 # Keras Models
 model/
 
+# Demo Recording
+demo/
+
 # Images Downloaded for Testing
 test-assets/
 
