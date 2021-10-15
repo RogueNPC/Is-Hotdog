@@ -3,7 +3,7 @@ from pathlib import Path
 
 # General info about the API
 API_TITLE = "IsHotdog"
-API_DESCRIPTION = "A REST API for detecting an image is a hotdog."
+API_DESCRIPTION = "Based on the TV series Silicon Valley, a REST API that can determine whether or not there is a hotdog in the image entered."
 API_VERSION = "0.0.2"
 
 # Info about what data users can request.
