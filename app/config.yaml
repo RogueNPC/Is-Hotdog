@@ -2,4 +2,4 @@ resize_shape: [256, 256]
 targets: ['hot_dog']
 model_file_paths: ["hotdog_cnn_classifier_params.h5", "hotdog_cnn_classifier_layers.json"]
 base_model_url: "https://github.com/RogueNPC/Is-Hotdog/releases/download/v1.0"
-model_sha256: ""
+model_sha256: "5361d25e025d1488ce6d5ed2d92f60d4cdec2a39"
