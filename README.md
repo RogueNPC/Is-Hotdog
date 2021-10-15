@@ -10,8 +10,8 @@ Based on Jin Yang's app "Not Hotdog" on the TV series Silicon Valley, a REST API
 ## Table of Contents
 1. [Release Notes](#release-notes)
 2. [Demo](#demo)
-3. [Roadmap](#roadmap)
-4. [Purpose](#purpose)
+3. [Purpose](#purpose)
+4. [Roadmap](#roadmap)
 5. [Built With](#built)
 6. [How to Launch Project](#how-to)
 
@@ -47,17 +47,6 @@ The model was completely confused as it was split down the middle with a ~56% co
 
 - 🎉 first release!
 
-<a name="roadmap"/>
-
-## Roadmap
-In the future, I hope to develop this project so that:
-
-- Users can take a picture on their phone and immediately run the api call.
-
-- Users can access the API through Heroku or other cloud platform services.
-
-- The API can be more accurate in assessing what is or isn't a hotdog.
-
 <a name="purpose"/>
 
 ## Purpose
@@ -68,6 +57,17 @@ I wanted to practice what I've learned in the Data Science field by
 - Creating a Convolutional Neural Network model that can take and analyze any given image to check for a specific object within that image.
 
 - Allow Users to add their own testing images through FastAPI.
+
+<a name="roadmap"/>
+
+## Roadmap
+In the future, I hope to develop this project so that:
+
+- Users can take a picture on their phone and immediately run the api call.
+
+- Users can access the API through Heroku or other cloud platform services.
+
+- The API can be more accurate in assessing what is or isn't a hotdog.
 
 <a name="built"/>
 
