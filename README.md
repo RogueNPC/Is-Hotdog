@@ -65,7 +65,7 @@ In the future, I hope to develop this project so that:
 I wanted to practice what I've learned in the Data Science field by
 - Recreating the Not Hotdog app from Silicon Valley.
 
-- Creating a Convolutional Neural Network model to essentailly showcase how these models are working visually.
+- Creating a Convolutional Neural Network model that can take and analyze any given image to check for a specific object within that image.
 
 - Allow Users to add their own testing images through FastAPI.
 
