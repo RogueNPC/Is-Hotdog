@@ -10,9 +10,12 @@ __pycache__/
 .DS_Store
 .vscode
 
-# Fire Image Datasets
+# Hotdog Image Datasets
 dataset/
 */dataset/
+
+# Keras Models
+model/
 
 # Images Downloaded for Testing
 test-assets/
